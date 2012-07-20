@@ -1,0 +1,22 @@
+{
+  "name": "tweetthis",
+  "fullName": "Share this on Twitter",
+  "version": "0.1.1",
+  "keywords": [
+    "tweet",
+    "share"
+  ],
+  "description": "The add-on renders a \"Tweet this\" button for template items",
+  "devonly": true,
+  "joshfire": {
+    "images": {
+      "small": "marketing/image-small.png",
+      "big":"marketing/image-small.png"
+    },   
+    "hooks": [
+      "item"
+    ],
+    "options": {
+    }
+  }
+}
