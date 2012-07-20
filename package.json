@@ -11,9 +11,10 @@
   "joshfire": {
     "images": {
       "small": "marketing/image-small.png",
-      "big":"marketing/image-small.png"
+      "big": "marketing/image-small.png"
     },   
     "hooks": [
+      "startfile",
       "item"
     ],
     "options": {
